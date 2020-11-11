@@ -2,7 +2,7 @@ import telebot
 from telebot import apihelper
 
 
-TOKEN = '1252893119:AAH31o9QaaEu_f-c_N88GHkxMIoQxPkLzgU'
+TOKEN = ''
  
 bot = telebot.TeleBot(TOKEN)
 
